@@ -3,7 +3,7 @@
 Como podemos apreciar en esta imágen la red social recurre a los iconos como forma de reforzar gráficamente el etiquetado de las opciones del menú. En tu caso debes hacer lo mismo. Para todas las opciones de menú, salvo para el perfil, deberás usar una fuente de iconos personalizada, generada por tí desde https://www.flaticon.com/ o https://glyphter.com/  Los iconos pueden estar diseñados por tí con algún programa vectorial como Illustrator, o puede tratarse de una recopilación de uno o varios paquetes de iconos preexistentes.
 
 <p align="center">
-	![menuProfile](https://user-images.githubusercontent.com/98815751/159176868-d0632d00-4138-4b78-8846-ad2cf158f1c6.png)
+	[menuProfile](https://user-images.githubusercontent.com/98815751/159176868-d0632d00-4138-4b78-8846-ad2cf158f1c6.png)
 </p>
 
 </p>
